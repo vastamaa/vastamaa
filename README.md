@@ -3,9 +3,6 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.facebook.com/profile.php?id=100008020936148">
-     <img src="https://img.shields.io/badge/Facebook-purple?logo=facebook&logoColor=snow&style=for-the-badge" alt="Facebook" /><br/>
-  </a>
     <img src="https://komarev.com/ghpvc/?username=vastamaa&style=flat-square&color=red" alt=""/><br/>
 </div>
 
