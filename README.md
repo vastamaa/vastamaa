@@ -19,7 +19,7 @@
 
 ### 🧂 About me:
 
-- 🖥️ I'm a Software Developer student, looking for  work.
+- 🖥️ I'm a Junior .NET Developer currently working at evosoft.
 
 - 🏋 In my free time, i lift weights and watch <em>Gordon Ramsay: Kitchen Nightmare</em> videos.
 
